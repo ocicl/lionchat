@@ -1,0 +1,10 @@
+* lionchat
+
+Qt client for Lichat
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/Shirakumo/lionchat.git   |
+| commit  | 4c06d77  |
+| systems | lionchat |
+|---------+-------------------------------------------|
+
