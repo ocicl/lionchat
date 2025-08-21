@@ -2,9 +2,8 @@
 
 Qt client for Lichat
 
-|---------+-------------------------------------------|
-| source  | git:https://codeberg.org/shirakumo/lionchat.git   |
-| commit  | 4c06d77  |
-| systems | lionchat |
-|---------+-------------------------------------------|
-
+|---------+-------------------------------------------------|
+| source  | git:https://codeberg.org/shirakumo/lionchat.git |
+| commit  | 389e9d2                                         |
+| systems | lionchat                                        |
+|---------+-------------------------------------------------|
