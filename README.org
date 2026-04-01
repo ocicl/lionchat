@@ -7,3 +7,4 @@ Qt client for Lichat
 | commit  | 389e9d2                                         |
 | systems | lionchat                                        |
 |---------+-------------------------------------------------|
+ 
